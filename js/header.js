@@ -2,7 +2,7 @@ document.write('<header> <div class="navbar navbar-expand-lg bg-dark navbar-dark
     '        <div class="container-fluid">\n' +
     '            <!-- company logo and name -->\n' +
     '            <h1 class="company">\n' +
-    '                <a href="./index.html" title="SeaFood logo" class="navbar-brand">\n' +
+    '                <a href="./Index.html" title="SeaFood logo" class="navbar-brand">\n' +
     '                        <img src="../img/logo.png">\n' +
     '                        <div class="companyname">SeaFood</div>\n' +
     '                </a>\n' +
